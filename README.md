@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a Robotics & Digital Systems Engineering student currently working on a digital audio mixer, using an STM32 as the audio processing unit, an ESP32C6<br>for a web UI, and an Altera DE1-SoC FPGA for DTFT hardware acceleration and some DSP stuff 🎶 <br>
+🔭 I’m a Robotics & Digital Systems Engineering student currently working on a digital audio mixer, using an STM32 as the audio processing unit, an ESP32C6 for a web UI, and an Altera DE1-SoC FPGA for DTFT hardware acceleration and some DSP stuff 🎶 <br>
 
 👯 I’m looking to collaborate on challenging Hardware and Software projects that allow me to to make a contribution to the world and make myself a better engineeer<br>
 
